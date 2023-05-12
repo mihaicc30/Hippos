@@ -1,6 +1,7 @@
 
 # Hippos
 Year1 Project of a POS App
+** Will resume work on it when i have more time as uni is lately very focused on Web Development (Javascript/React/Various Databases) and not Python
 
 This project is called "Hippos POS" and is a point of sale software with many tools.
 
