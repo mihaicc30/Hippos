@@ -25,12 +25,12 @@ The POS project requires a MySQL database to store data. To set up the database,
 - Click the "Go" button to import the database.
 
 ## Step 3: Running the Program
-To run the POS program, simply run the main.exe file in the project directory.
+To run the POS program, simply run the **main.exe** file in the project directory.
 
 # Usage
 Once you have started the POS program, you can use it to explore its features. The program allows you to add, edit, and delete products, as well as view reports on sales and inventory levels.
 
 # Support
-If you have any questions or issues with the POS project, please contact the project owner alemihai25@gmail.com.
+If you have any questions or issues with the POS project, please contact the project owner **alemihai25@gmail.com**.
 
 # Thank you for exploring Hippos!
